@@ -1,0 +1,178 @@
+﻿  Cell.cpp
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.h(30,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.h(32,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.h(32,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.h(94,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(7,14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(86,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(92,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(98,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(104,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(110,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(116,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(122,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(128,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(134,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(140,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(179,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(186,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(193,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(200,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(207,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(214,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(222,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(230,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(238,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(245,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(252,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(315,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(317,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(323,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(325,16): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(330,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(330,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(482,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(495,54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(517,54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(530,54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(543,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(547,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(575,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(575,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(580,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(589,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(589,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.cpp(601,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Entity.cpp
+C:\Users\jugwu\source\repos\evoSim\evoSim\Entity.cpp(14,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Entity.cpp(93,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\Entity.cpp(113,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  globalItems.h
+  main.cpp
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.h(30,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.h(32,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.h(32,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\Cell.h(94,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\PhysicsSolver.h(49,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\PhysicsSolver.h(49,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\PhysicsSolver.h(74,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\PhysicsSolver.h(74,1): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(69,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(79,51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(127,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(127,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(146,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(146,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(160,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(163,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(163,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(222,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(222,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(229,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(233,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jugwu\source\repos\evoSim\evoSim\main.cpp(233,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  NeuralNetwork.cpp
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(176,135): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(176,95): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(176,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(186,136): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(186,96): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(186,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(196,135): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(196,95): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(196,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(206,132): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(206,93): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(206,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(228,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(230,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(259,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(261,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(290,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jugwu\source\repos\evoSim\evoSim\NeuralNetwork.cpp(292,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  neuron.cpp
+C:\Users\jugwu\source\repos\evoSim\evoSim\neuron.cpp(4,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PlantCell.cpp
+C:\Users\jugwu\source\repos\evoSim\evoSim\PlantCell.cpp(6,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  evoSim.vcxproj -> C:\Users\jugwu\source\repos\evoSim\x64\Debug\evoSim.exe
