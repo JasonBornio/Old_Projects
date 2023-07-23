@@ -1,0 +1,5 @@
+﻿  Fighter.cpp
+C:\Users\jugwu\source\repos\DBZFighter\DBZFighter\Fighter.cpp(12,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  DBZFighter.vcxproj -> C:\Users\jugwu\source\repos\DBZFighter\x64\Debug\DBZFighter.exe
