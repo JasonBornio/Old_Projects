@@ -1,0 +1,110 @@
+﻿  main.cpp
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\System\Angle.inl(264,31): error C7525: inline variables require at least '/std:c++17'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.hpp(105,20): error C2039: 'optional': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\yvals.h(346,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.hpp(134,2): message : see reference to class template instantiation 'sf::Rect<T>' being compiled
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.hpp(105,28): error C2143: syntax error: missing ';' before '<'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.hpp(105,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.hpp(105,1): error C2178: 'sf::Rect<T>::optional' cannot be declared with 'constexpr' specifier
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.hpp(105,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,16): error C2039: 'optional': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\yvals.h(346,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,24): error C2988: unrecognizable template declaration/definition
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,24): error C2143: syntax error: missing ';' before '<'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,24): error C2059: syntax error: '<'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,30): error C2065: 'T': undeclared identifier
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,25): error C2923: 'sf::Rect': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,30): message : see declaration of 'T'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,39): error C2065: 'T': undeclared identifier
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,34): error C2923: 'sf::Rect': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,39): message : see declaration of 'T'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,71): error C2065: 'T': undeclared identifier
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,66): error C2923: 'sf::Rect': 'T' is not a valid template type argument for parameter 'T'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(76,71): message : see declaration of 'T'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(77,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.inl(77,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.hpp(105,1): error C2178: 'sf::Rect<float>::optional' cannot be declared with 'constexpr' specifier
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Transform.inl(231,39): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(72,17): error C3615: constexpr function 'sf::operator +' cannot result in a constant expression
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(74,16): message : failure was because type 'const sf::+::<lambda_1>' is not a literal type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(78,5): message : type 'sf::+::<lambda_1>' is not a literal type because it is not an aggregate type, a closure type, or does not have a constexpr constructor that is not a copy or move constructor
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(88,17): error C3615: constexpr function 'sf::operator -' cannot result in a constant expression
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(90,16): message : failure was because type 'const sf::-::<lambda_1>' is not a literal type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(94,5): message : type 'sf::-::<lambda_1>' is not a literal type because it is not an aggregate type, a closure type, or does not have a constexpr constructor that is not a copy or move constructor
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(104,17): error C3615: constexpr function 'sf::operator *' cannot result in a constant expression
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(106,16): message : failure was because type 'const sf::*::<lambda_1>' is not a literal type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(110,5): message : type 'sf::*::<lambda_1>' is not a literal type because it is not an aggregate type, a closure type, or does not have a constexpr constructor that is not a copy or move constructor
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(146,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(147,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(148,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(149,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(150,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(151,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(152,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(153,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Color.inl(154,31): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Rect.hpp(105,1): error C2178: 'sf::Rect<int>::optional' cannot be declared with 'constexpr' specifier
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Texture.hpp(127,48): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Texture.hpp(127,60): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(24,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Texture.hpp(127,64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Texture.hpp(127,64): error C2143: syntax error: missing ',' before '&'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Font.hpp(125,48): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Font.hpp(125,60): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Font.hpp(125,64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Font.hpp(125,64): error C2143: syntax error: missing ',' before '&'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Image.hpp(89,48): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Image.hpp(89,60): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Image.hpp(89,64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Image.hpp(89,64): error C2143: syntax error: missing ',' before '&'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Image.hpp(141,46): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Image.hpp(141,58): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\unordered_map(24,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Image.hpp(141,62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Image.hpp(141,62): error C2143: syntax error: missing ',' before '&'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\System\Time.inl(268,29): error C7525: inline variables require at least '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Window\WindowStyle.hpp(29,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(145,48): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(145,60): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\chrono(50,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(145,64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(145,64): error C2143: syntax error: missing ',' before '&'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(166,48): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(166,60): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\chrono(50,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(166,64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(166,64): error C2143: syntax error: missing ',' before '&'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(166,24): error C2535: 'bool sf::Shader::loadFromFile(const int)': member function already defined or declared
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(145,24): message : see declaration of 'sf::Shader::loadFromFile'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(189,48): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(189,60): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\chrono(50,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(189,64): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(189,64): error C2143: syntax error: missing ',' before '&'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(189,24): error C2535: 'bool sf::Shader::loadFromFile(const int)': member function already defined or declared
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\Shader.hpp(145,24): message : see declaration of 'sf::Shader::loadFromFile'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\System\Utf.inl(658,46): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\System\Utf.inl(701,81): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\System\FileInputStream.hpp(102,40): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\System\FileInputStream.hpp(102,52): error C2039: 'path': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\locale(25,1): message : see declaration of 'std'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\System\FileInputStream.hpp(102,56): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\System\FileInputStream.hpp(102,56): error C2143: syntax error: missing ',' before '&'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Window\Joystick.hpp(39,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Window\Sensor.hpp(39,1): error C2429: language feature 'nested-namespace-definition' requires compiler flag '/std:c++17'
+C:\Users\jugwu\source\repos\Project1\Project1\main.cpp(5,42): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'sf::VideoMode'
+C:\Users\jugwu\source\repos\Project1\Project1\main.cpp(5,42): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\jugwu\source\repos\Project1\Project1\main.cpp(5,28): error C2665: 'sf::RenderWindow::RenderWindow': no overloaded function could convert all the argument types
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\RenderWindow.hpp(169,1): message : could be 'sf::RenderWindow::RenderWindow(const sf::RenderWindow &)'
+C:\Users\jugwu\source\repos\Project1\Project1\main.cpp(5,28): message : 'sf::RenderWindow::RenderWindow(const sf::RenderWindow &)': cannot convert argument 1 from 'const char [12]' to 'const sf::RenderWindow &'
+C:\Users\jugwu\source\repos\Project1\Project1\main.cpp(5,54): message : Reason: cannot convert from 'const char [12]' to 'const sf::RenderWindow'
+C:\Users\jugwu\source\repos\Project1\Project1\main.cpp(5,54): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\jugwu\Documents\SFMLVS17\include\SFML\Graphics\RenderWindow.hpp(94,5): message : or       'sf::RenderWindow::RenderWindow(sf::WindowHandle,const sf::ContextSettings &)'
+C:\Users\jugwu\source\repos\Project1\Project1\main.cpp(5,28): message : 'sf::RenderWindow::RenderWindow(sf::WindowHandle,const sf::ContextSettings &)': cannot convert argument 1 from 'const char [12]' to 'sf::WindowHandle'
+C:\Users\jugwu\source\repos\Project1\Project1\main.cpp(5,54): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\jugwu\source\repos\Project1\Project1\main.cpp(5,28): message : while trying to match the argument list '(const char [12])'
