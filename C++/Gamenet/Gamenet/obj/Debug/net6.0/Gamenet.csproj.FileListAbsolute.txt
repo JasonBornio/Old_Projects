@@ -1,0 +1,5 @@
+C:\Users\Jugwu\source\repos\Gamenet\Gamenet\obj\Debug\net6.0\Gamenet.csproj.AssemblyReference.cache
+C:\Users\Jugwu\source\repos\Gamenet\Gamenet\obj\Debug\net6.0\Gamenet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jugwu\source\repos\Gamenet\Gamenet\obj\Debug\net6.0\Gamenet.AssemblyInfoInputs.cache
+C:\Users\Jugwu\source\repos\Gamenet\Gamenet\obj\Debug\net6.0\Gamenet.AssemblyInfo.cs
+C:\Users\Jugwu\source\repos\Gamenet\Gamenet\obj\Debug\net6.0\Gamenet.csproj.CoreCompileInputs.cache

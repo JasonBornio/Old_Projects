@@ -1,0 +1,16 @@
+﻿  Overload.cpp
+  Source.cpp
+  Source1.cpp
+C:\Users\jugwu\OneDrive\Documents\codes\Practice\Source1.cpp(8,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Source2.cpp
+C:\Users\jugwu\OneDrive\Documents\codes\Practice\Source2.cpp(10,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jugwu\OneDrive\Documents\codes\Practice\Source2.cpp(11,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jugwu\OneDrive\Documents\codes\Practice\Source2.cpp(12,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Source3.cpp
+C:\Users\jugwu\OneDrive\Documents\codes\Practice\Source3.cpp(28,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Source4.cpp
+  Source5.cpp
+  Source6.cpp
+C:\Users\jugwu\OneDrive\Documents\codes\Practice\Source6.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\jugwu\OneDrive\Documents\codes\Practice\Source.cpp(8): error C4716: 'maim': must return a value
