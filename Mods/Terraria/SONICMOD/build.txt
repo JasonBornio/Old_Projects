@@ -1,0 +1,3 @@
+displayName = Sonic Mod (official)
+author = Jasonbornio
+version = 0.1

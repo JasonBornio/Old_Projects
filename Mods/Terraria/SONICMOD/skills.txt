@@ -1,0 +1,25 @@
+﻿teleport
+chaos sphere 
+chaos control
+chaos blast
+chaos explosion
+dash
+homing attack
+ball shield
+spin dash
+spin jump
+flight 
+super sonic 
+darkspine
+dark sonic 
+hyper sonic
+light speed attack 
+
+1.)Dash
+2.)Ball sheild, Spin dash (down), homing attack (air)
+3.)chaos control
+4.)chaos explosion 
+5.)chaos blast
+6.)chaos sphere
+7.)teleport
+8.)light speed dash

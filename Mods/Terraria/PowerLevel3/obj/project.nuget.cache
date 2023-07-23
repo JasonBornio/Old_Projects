@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVzBH/cqLGL1YJAwRgMZ0uL/cWEBSfBcFoY2uq7wJ4/zC/MCvo+dtPpExl3zp1okVyckqMQxGxiMPPeMiW8TJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jugwu\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\PowerLevel3\\PowerLevel3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jugwu\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

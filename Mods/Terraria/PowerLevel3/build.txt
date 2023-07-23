@@ -1,0 +1,8 @@
+displayName = plmod
+author = Jasonbornio
+version = 0.1
+weakReferences = DBZMOD@1.0.9.4, Loot@0.1.2.3
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, lib\*, .git\*
+includeSource = true
+includePDB = true
+sortAfter = DBZMOD, Loot
