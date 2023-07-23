@@ -1,0 +1,15 @@
+MODELSLAYER5
+Model Dimensions:
+100
+10
+10
+Sequence Length::
+10
+Vocab Size:::::::
+4733
+Sample Size::::::
+50
+Loss:::::::::::::
+63.05813831323758
+Iterations:::::::
+600

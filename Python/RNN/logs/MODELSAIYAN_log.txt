@@ -1,0 +1,15 @@
+MODELSAIYAN
+Model Dimensions:
+100
+50
+50
+Sequence Length:
+10
+Vocab Size:
+2496
+Sample Size
+1000
+Loss
+4890.298855409026
+Iterations
+55
