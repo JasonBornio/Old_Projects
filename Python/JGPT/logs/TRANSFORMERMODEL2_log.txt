@@ -1,0 +1,13 @@
+TRANSFORMERMODEL2
+D_model::::
+100
+Seq_length:
+200
+Vocab_Size:
+4733
+Encoders:::
+3
+Loss:::::::
+tensor(2133.6755, grad_fn=<DivBackward0>)
+Iteration::
+4
